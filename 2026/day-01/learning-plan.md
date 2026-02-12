@@ -18,7 +18,7 @@ What Defines my Learning plan is:
 ## My Current Level
    -My Current Level is Student(Part-Time Employee In Ed-Tech Institute).
 
-## My Cuurent Goals for 2026 (Next 3 Months i.e From FEB)
+## My Current Goals for 2026 (Next 3 Months i.e From FEB)
 My 3 Clear Goals for the next 90 Days 
 
     - To Remove the fact that this challenge can't be done by anyone with JOSH.
