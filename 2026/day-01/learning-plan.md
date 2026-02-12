@@ -4,6 +4,7 @@
 Hi My Name Is Shubham Chavan,
 
 What Defines my Learning plan is: 
+
  My Understanding about DevOps & Cloud Engineering:
  
  -For Me Personally As a biased IT Guy, System Administration was a One Thing At My Bachelor Years where i use to work as lab-assistant ,but when i was introduced to firewalls and server related stuff i got to know about  how the whole system works around & how a system-administrator has a lot of responsibilities of the whole college. Later On , I Started My Learning Through AWS Cloud On Youtube & then Recognizing what DevOps &Cloud Engineering Fulfills the responsibilities that No One Can Do IS My Thing That I LOVE A Lot To DO.
